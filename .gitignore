@@ -1,0 +1,19 @@
+# MATLAB generated files
+*.asv
+*.m~
+*.autosave
+
+# Local generated data
+trainingData.mat
+
+# Local datasets
+data/
+archive/
+archive (2)/
+train_images/
+val_images/
+test_images/
+
+# OS files
+.DS_Store
+Thumbs.db
